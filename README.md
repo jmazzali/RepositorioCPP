@@ -28,6 +28,10 @@ O nome C++ inicialmente era C with Classes, por isso é dita uma linguagem setad
 
 1. [Classes/Struct](./anotacoes/poo.md)
 
+### Desafios de código
+
+1. [Hackerrank](./anotacoes/hackerrank.cpp)
+
 ### Adicionais
 
 1. [Complemento 2](./anotacoes/complemento_2.md)
