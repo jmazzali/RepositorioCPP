@@ -1,7 +1,7 @@
 # Linguagem C/C++
 
 <h1 align="center">
-  <img src="./img/C++_Logo.png" alt="C++" width="120px" height="100px"/>
+  <img src="./img/C++_Logo.png" alt="C++" width="120px" height="110px"/>
 </h1>
 
 Repositório destinado às minhas anotações durante o estudo da linguagem `C++`.
